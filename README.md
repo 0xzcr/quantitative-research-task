@@ -1,4 +1,4 @@
-## JPMorgan Chase & Co. Quantitative Research Virtual Experience Program  
+## JPMorgan Chase & Co. Quantitative Research Program  
 **May 2026**
 
 Completed a job simulation focused on quantitative research, credit risk analysis, and predictive modeling in financial systems. Worked on analyzing a portfolio of loans to estimate customer probability of default (PD) using data-driven approaches commonly applied in quantitative finance and risk management.
